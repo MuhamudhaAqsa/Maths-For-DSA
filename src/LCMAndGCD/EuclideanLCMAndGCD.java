@@ -1,8 +1,9 @@
-package GCD;
+package LCMAndGCD;
 
 import java.util.Scanner;
+import java.util.Arrays;
 
-public class Euclidean
+public class EuclideanLCMAndGCD
 {
     public static void main(String[] args)
     {
@@ -11,9 +12,13 @@ public class Euclidean
         int a = input.nextInt();
         int b = input.nextInt();
 
-        int gcd = gcd(a, b);
+        int[] ans = new int[2];
 
-        System.out.println(gcd);
+        ans[1] = gcd(a, b);
+
+        ans[0] = lcm(a, b);
+
+        System.out.println(Arrays.toString(ans));
     }
 
     static int gcd(int a, int b)
@@ -23,5 +28,10 @@ public class Euclidean
             return b;
         }
         return gcd(b % a, a);
+    }
+
+    static int lcm(int a, int b)
+    {
+        return (a * b) / gcd(a, b);
     }
 }
