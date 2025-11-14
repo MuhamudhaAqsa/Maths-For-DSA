@@ -13,7 +13,7 @@ Count Digits in a Number
 Reverse a Number  
 Find Power of a Number  
 
----
+
 
 Number Theory
 
