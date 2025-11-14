@@ -16,24 +16,25 @@ Number Theory
 
 ---
 
-GCD (Greatest Common Divisor)
-Print All Divisors of a Number
-Prime Number Check
-Perfect Number Check
+GCD (Greatest Common Divisor)  
+LCM (Least Common Multiple)
+Print All Divisors of a Number  
+Prime Number Check  
+Perfect Number Check  
 
 ---
 
-Special Numbers
+Special Numbers  
 
 ---
 
-Armstrong Number
-Palindrome Number
+Armstrong Number  
+Palindrome Number  
 
 ---
 
-Other Math Operations
+Other Math Operations  
 
 ---
 
-Square Root of a Number (Efficient method)
+Square Root of a Number (Efficient method)  
