@@ -17,7 +17,7 @@ Number Theory
 ---
 
 GCD (Greatest Common Divisor)  
-LCM (Least Common Multiple)
+LCM (Least Common Multiple)  
 Print All Divisors of a Number  
 Prime Number Check  
 Perfect Number Check  
