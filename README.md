@@ -6,8 +6,8 @@ Problems Covered
 
 ---
 
-Number Basics
-Find Even or Odd
+--Number Basics
+--Find Even or Odd
 Find Last Digit of a Number
 Count Digits in a Number
 Reverse a Number
