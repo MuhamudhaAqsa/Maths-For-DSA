@@ -1,6 +1,4 @@
-Beginners Basic Math Problems – A Collection of Foundational Java Implementations for Building Logic and Problem-Solving Skills
-
-
+BEGINNERS BASIC MATH PROBLEMS – JAVA LOGIC AND PROBLEM-SOLVING BASICS
 
 Problems Covered
 
@@ -12,8 +10,6 @@ Find Last Digit of a Number
 Count Digits in a Number  
 Reverse a Number  
 Find Power of a Number  
-
-***
 
 Number Theory
 
@@ -38,4 +34,5 @@ Palindrome Number
 Other Math Operations
 
 ---
+
 Square Root of a Number (Efficient method)
