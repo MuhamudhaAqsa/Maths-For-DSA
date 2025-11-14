@@ -22,7 +22,7 @@ Print All Divisors of a Number
 Prime Number Check  
 Perfect Number Check  
 
----
+
 
 Special Numbers  
 
