@@ -1,3 +1,5 @@
+Exponentiation By Squaring
+
 ```
 Input: base = 2, exp = 21
 Output: 2097152
