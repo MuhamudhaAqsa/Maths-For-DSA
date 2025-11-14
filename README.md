@@ -1,10 +1,13 @@
 BEGINNERS BASIC MATH PROBLEMS – JAVA LOGIC AND PROBLEM-SOLVING BASICS
 
-Problems Covered
+PROBLEMS COVERED
 
 ---
 
-Number Basics  
+Number Basics
+
+---
+
 Find Even or Odd  
 Find Last Digit of a Number  
 Count Digits in a Number  
