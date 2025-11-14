@@ -1,5 +1,7 @@
+```
 Input: base = 2, exp = 21
 Output: 2097152
+```
 ```
 import java.util.Scanner;
 
